@@ -1,4 +1,4 @@
-# four-it-the-number
+# four-is-the-number
 
 📖 Sobre a atividade
 
