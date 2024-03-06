@@ -31,6 +31,21 @@
 
 <img src=".github/ex01-preview.png" width="800" heigth="400">
 
+<hr />
+
+## Site de notícias com Bootstrap
+
+### Checklist de Instruções da tarefa
+- (x) 1. Substitua a imagem de exemplo pela imagem dentro da pasta imagens.
+- (x) 2. Utilizando somente classes do bootstrap, em especial a classe "card" e a classe "container", recrie o layout da notícia.
+- (x) 3. Lembre-se que mais de uma classe pode ser aplicada a um elemento.
+
+<hr />
+
+### Print da Tarefa concluida
+
+<img src=".github/ex03-preview.png">
+
 ## Tabelas e CSS
 
 ### Checklist de Instruções da tarefa
@@ -47,3 +62,5 @@
 
 ### Print da tarefa concluida
 <img src=".github/ex02-preview.png" width="800" heigth="400">
+
+<hr />
