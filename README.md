@@ -30,3 +30,20 @@
 ### Print da tarefa concluida
 
 <img src=".github/ex01-preview.png" width="800" heigth="400">
+
+## Tabelas e CSS
+
+### Checklist de Instruções da tarefa
+
+- (x) 1. Faça com que a tabela ocupe 100% da largura da tela;
+- (x) 2. Aplique a propriedade border-collapse com o valor collapse para que as bordas das células da tabela sejam unidas;
+- (x) 3. Aplique a propriedade border com o valor 1px solid #000 para que as bordas das células da tabela sejam exibidas;
+- (x) 4. Aplique a propriedade padding com o valor 2vh para que haja um espaçamento interno entre o conteúdo das células e as bordas das células;
+- (x) 5. Aplique a propriedade text-align para que o texto das células seja centralizado;
+- (x) 6. Aplique a propriedade background-color e a propriedade color para que o cabeçalho da tabela tenha um fundo preto e o texto branco;
+- (x) 7. Aplique a propriedade background-color com o valor #f2f2f2 para que as linhas PARES da tabela tenham um fundo cinza;
+- (x) 8. Aplique a propriedade font-size com o valor 20px para que o texto das células tenha um tamanho de 20 pixels;
+- (x) 9. Aplique a propriedade font-family com o valor 'Arial', sans-serif para que o texto das células seja exibido em uma fonte Arial;
+
+### Print da tarefa concluida
+<img src=".github/ex02-preview.png" width="800" heigth="400">
