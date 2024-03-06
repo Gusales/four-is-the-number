@@ -46,6 +46,32 @@
 
 <img src=".github/ex03-preview.png">
 
+<hr />
+
+## Exercício Responsividade
+### Checklist de Instruções da tarefa
+
+- (x) 1. Aplique display flex a tag <body> da página, e assim, faça com que as caixas sejam exibidas em linha e que o espaçamento entre elas seja distribuído de forma igual. 
+- (x) 2. Utilizando agora, utilizando as propriedades display flex, flex-wrap e justify-content, faça com que as divs/caixas dentro da tag <body> sejam exibidas em linha e que o espaçamento entre elas seja distribuído de forma igual.
+- (x) 3. Ao diminuir a largura da tela, as caixas se adaptem ao tamanho da tela e ainda mantenham a distância entre elas.
+- (x) 4. Cada caixa deve possuir um tamanho mínimo de 20vw de largura e 20vh de altura.
+- (x) 5. Aplique a transição de 0.5s em TODAS as caixas.
+- (x) 6. As caixas devem ter as seguintes cores no background:
+Amarela
+Vermelha
+Verde
+Azul
+- (x) 7. Ao reduzir o tamanho da tela para 768px, faça com que as caixas ocupem 100% da largura da tela.
+- (x) 8. Utilize a propriedade cursor para que o cursor do mouse mude ao passar sobre as caixas.
+- (x) 9. Utilize a propriedade font-family para que o texto das caixas seja exibido em uma fonte monoespaçada como a Courier.
+- (x) **BONUS**: Ao passar o mouse sobre as caixas, elas devem aumentar de tamanho, criar uma sombra e arredondar as bordas. Utilize as propriedades de transformação (transform), box-shadow e border-radius para isso.  
+
+### Print da tarefa concluida
+
+<img src=".github/ex04-preview.png" width="800" heigth="400">
+
+<hr />
+
 ## Tabelas e CSS
 
 ### Checklist de Instruções da tarefa
